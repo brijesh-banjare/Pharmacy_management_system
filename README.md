@@ -12,8 +12,6 @@ Welcome to the PharmaSys Desktop GitHub repository! This project is a comprehens
 
 - **Customer Management:** Maintain a database of customers, allowing you to track their purchase history and personalize the service you provide.
 
-- **Supplier Information:** Keep track of suppliers and their contact details. This facilitates efficient communication and restocking of medicines.
-
 - **Reports and Analytics:** Generate comprehensive reports for sales, inventory, and other metrics. Gain insights into the pharmacy's performance and make informed decisions.
 
 - **User Authentication:** Secure the application with user authentication to ensure only authorized personnel can access sensitive information and perform critical operations.
